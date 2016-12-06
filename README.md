@@ -21,8 +21,14 @@ Or install it yourself as:
     $ gem install roman_calculator
 
 ## Usage
+This gem is flexibile to do any kind of arithemetic operation on roman numbers.
+Use this instance method of String class ```calculate_in_roman``` to do operations.
 
-TODO: Write usage instructions here
+Example
+```
+"X + V".calculate_in_roman
+```
+
 
 ## Development
 
@@ -39,4 +45,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-# roman_number_calculator
+#Enjoy
