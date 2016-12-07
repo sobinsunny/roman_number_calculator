@@ -1,6 +1,6 @@
 # RomanCalculator
 
-Gem to do arithemtic operation on Roman numbers
+Ruby gem to do arithemetic operations on Roman numbers
 
 ## Installation
 
